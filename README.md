@@ -3,10 +3,11 @@
     <img src="docs/Azure.png" width="160" alt="Azure Logo">
   </a>
 
-  <h2># Azure Cloud Project </h2>
+  <h2> Azure Cloud Project </h2>
 </div>
 
-## 💡 Project overview IaC
+
+## 💡 Project overview - IaC
 This project implements a secure and repeatable Microsoft Azure cloud infrastructure for a multi-tier application.
 
 The solution is deployed with Infrastructure as Code using Azure Bicep. It includes networking, compute, storage, database, identity, security, monitoring, and application routing components.
@@ -27,7 +28,7 @@ The main goal of the project is to demonstrate how an Azure environment can be d
 - Application Gateway with HTTPS routing
 - Log Analytics Workspace and Azure Monitor
 - Managed identities and role-based access control
-- 
+  
 ## ✨ Prerequisites
 Required tools:
 
