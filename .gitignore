@@ -1,0 +1,25 @@
+# Local parameter files with secrets
+*.parameters.local.json
+*.json
+
+
+# Function deployment packages
+*.zip
+
+# Certificates and keys
+*.pfx
+*.key
+*.pem
+*.crt
+certs/*
+!certs/.gitkeep
+
+# Azure local files
+.azure/
+
+# Editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
